@@ -22,7 +22,7 @@ Following the preprocessing and cleaning phase we have a total of 532 tradable c
 ### Clustering Cryptocurrencies using K-Means - Elbow Curve
 We don't know what would be the output of the analysis so we are using unsupervised machine learning to identify clusters of the cryptocurrencies. We produced the elbow curve below using the K-Means method iterating on k values from 1 to 10.
 
-<img align="center" src="Resources/01.png">
+<p align="center"><img src="Resources/01.png"></p>
 
 ![01.png](Resources/01.png)
 <br/>
