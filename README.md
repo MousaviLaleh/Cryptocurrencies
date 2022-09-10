@@ -26,7 +26,7 @@ We don't know what would be the output of the analysis so we are using unsupervi
 <br/>
 The best k value appears to be 4 so we would conclude on an output of 4 clusters to categorize the crytocurrencies.
 
-
+<br/>
 ### Visualizing Cryptocurrencies Results
 
 ### 3D-Scatter plot with clusters
