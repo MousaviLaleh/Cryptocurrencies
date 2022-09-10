@@ -12,9 +12,9 @@ We use the following methods for the analysis:
  - Visualizing classification results with 2D and 3D scatter plots.
 
 ## Resources
-Data : [cryptoData.csv](Resources/crypto_data.csv) 
+Data :&nbsp; [cryptoData.csv](Resources/crypto_data.csv) 
 <br/>
-Software :  [Python 3.7.7](https://www.python.org/downloads/), [Anaconda 1.9.12](https://www.anaconda.com/)
+Software :&nbsp;  [Python 3.7.7](https://www.python.org/downloads/),&nbsp; [Anaconda 1.9.12](https://www.anaconda.com/)
 
 ## Results
 Following the preprocessing and cleaning phase we have a total of 532 tradable cryptocurrencies.
