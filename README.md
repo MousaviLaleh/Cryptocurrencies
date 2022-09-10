@@ -41,8 +41,10 @@ This 3-D scatter plot was obtained using the PCA algorithm to reduce the crytocu
 
 ![03.png](Resources/03.png)
 <br/>
-Most of the cryptocurrencies are part of class #0 and #3.
-The snapshot above shows that BitTorrent is the only cryptocurrency in class #2.
+Most of the cryptocurrencies are part of class #0 and #3. <br/>
+The snapshot above shows that BitTorrent is the only cryptocurrency in class #2. <br/>
+
+![05.png](Resources/05.png)
 
 
 
