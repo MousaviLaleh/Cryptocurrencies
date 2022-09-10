@@ -44,13 +44,13 @@ This 3-D scatter plot was obtained using the PCA algorithm to reduce the crytocu
 Most of the cryptocurrencies are part of class #0 and #3. <br/>
 The snapshot above shows that BitTorrent is the only cryptocurrency in class #2. <br/>
 
-![05.png](Resources/05.png)
+![04.png](Resources/04.png)
 
 
 
 ### 2D-Scatter plot with TotalCoinMined vs TotalCoinSupply
 
-![04.png](Resources/04.png)
+![05.png](Resources/05.png)
 <br/>
 Plotting the scatter plot from two cryptocurrency features directly does not efficiently segregate the different classes. Then using the PCA algorithm is the right method for better visualizations.
 
