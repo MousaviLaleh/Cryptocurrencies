@@ -29,6 +29,7 @@ The best k value appears to be 4 so we would conclude on an output of 4 clusters
 
 ### Visualizing Cryptocurrencies Results
 <br/>
+
 ### 3D-Scatter plot with clusters
 
 ![04.png](Resources/02.png)
